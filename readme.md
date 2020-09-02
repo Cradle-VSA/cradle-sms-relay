@@ -6,7 +6,8 @@ The main use case for this application is to provide a relay service for the mai
 
 The application is designed to have independent components such as NetworkManager, Database repository, Service, Broadcast listener, Views, etc. Components should not have to communicate with each other. The only exception to this is the database since every component is either observing database changes or modifying it.
 
-
+## Screenshots && Documentation
+Screenshots and documentation for the code is provided in the base repository folder.
 
 ## Pre-push hooks
 #### For Mac, run the following command  
